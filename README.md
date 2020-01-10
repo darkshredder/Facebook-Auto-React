@@ -2,7 +2,7 @@
 # Introduction
 This is an Chrome Web-Extension which scrapes data from facebook post from feed section and reacts to it by giving reacts like--><b>         Like, Wow, Haha, Love, Sad, Angry</b>.
 I have tested this on <b>Home page</b>
-It first takes various links from pages and its post text.Which is transfered to api through XMLHttp Request and sentiment analysis is made.
+It first takes various links from pages and its post text.Which is transfered to api through XMLHttp Request and sentiment analysis is made.Then Links are reacted for more Info see the comments made in the Files
 # Installing on Your Chrome Browser
 * On your search bar type- <b> chrome://extensions/ </b>
 * Click on Load Unpacked button.
