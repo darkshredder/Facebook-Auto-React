@@ -13,4 +13,5 @@ It first takes various links from pages and its post text.Which is transfered to
  * Now Click on the web extension
  * Click on <b> Start Reacting</b> button displayed on the popup opened.
  * <b>Congratulations </b> Your posts have been auto reacted.
+ <video src="Facebook Auto React.mov" width="320" height="200" controls preload></video>
  
