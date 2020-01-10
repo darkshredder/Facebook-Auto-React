@@ -1,6 +1,6 @@
 # Facebook-Auto-React
 # Introduction
-This is an Chrome Web-Extension which takes data from facebook post from feed section and reacts to it by giving reacts like--><b>         Like, Wow, Haha, Love, Sad, Angry</b>.
+This is an Chrome Web-Extension which scrapes data from facebook post from feed section and reacts to it by giving reacts like--><b>         Like, Wow, Haha, Love, Sad, Angry</b>.
 I have tested this on <b>Home page</b>
 It first takes various links from pages and its post text.Which is transfered to api through XMLHttp Request and sentiment analysis is made.
 # Installing on Your Chrome Browser
