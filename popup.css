@@ -1,0 +1,40 @@
+body{ 
+background-color: rgb(5, 113, 255);
+min-width: 150px;
+min-height: 150px;
+}
+h3
+{text-align: center;
+font-size: medium;
+color: white;
+}
+
+button{
+font-size: medium;
+font-weight: bold;    
+background-color: chartreuse;
+
+height: 100px;
+width: 100px;
+border-radius: 50%;
+position: relative;
+top: 50%;
+left: 18%;
+
+
+
+}
+button:hover{
+
+background-color: white;
+
+}
+p{
+height: 2px;
+position: absolute;
+font-size: xx-small;
+color: white;
+bottom: 0;
+right: 0;
+
+}
