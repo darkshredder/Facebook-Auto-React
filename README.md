@@ -13,5 +13,5 @@ It first takes various links from pages and its post text.Which is transfered to
  * Now Click on the web extension
  * Click on <b> Start Reacting</b> button displayed on the popup opened.
  * <b>Congratulations </b> Your posts have been auto reacted.
- 
+ ## Video Tutorial Link for Using the Web-Extension [Click Here](https://drive.google.com/open?id=13cwyNVvMbikaRmEworyqVgiQbLeONSaX)
  
