@@ -1,4 +1,4 @@
-var API_KEY = "AIzaSyAqh0-heisKNFZIuHsxEYwyfkmZM-d6It4";
+var API_KEY = "AIzaSyBGrYE1-miPMNJnbI6-kmlQwrh18HoMufg";
 setTimeout(console.log("hi"), 50000);//done for testing purpose
 var post_text = document.getElementsByClassName("userContent");//gets text but some arrays are empty so i had to run checking done below 
 var many_links = document.getElementsByTagName("a");//gets all links with a tag
